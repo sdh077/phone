@@ -438,7 +438,7 @@ export default function HomePage() {
           </div>
         </section>
 
-        <section className="mt-8 rounded-3xl border border-amber-400/20 bg-gradient-to-b from-amber-500/10 to-transparent p-6 shadow-2xl shadow-amber-950/20">
+        {/* <section className="mt-8 rounded-3xl border border-amber-400/20 bg-gradient-to-b from-amber-500/10 to-transparent p-6 shadow-2xl shadow-amber-950/20">
           <div className="mb-5">
             <p className="text-sm text-amber-300">추가 제휴 영역</p>
             <h2 className="text-2xl font-bold text-white">추가 추천 링크</h2>
@@ -469,7 +469,7 @@ export default function HomePage() {
             이 영역에는 제휴 링크가 포함될 수 있으며, 링크를 통해 일정 수익이
             발생할 수 있습니다.
           </p>
-        </section>
+        </section> */}
       </div>
     </main>
   );
